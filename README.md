@@ -7,5 +7,6 @@ Steps:
  - Get the necessary time and location data for the active bus lines
  - Clean and reshape the data
  - Animate
+ - Result:
  
  ![iett_merged_normal7](https://user-images.githubusercontent.com/74147629/153772584-2a4a0103-24ab-4233-92e0-e24b7381c77c.gif?raw=true)
