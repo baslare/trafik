@@ -1,10 +1,10 @@
 # trafik
 
-This repo is not meant to be pedagogical (for now). The code is sloppy but the gif below can still be reproduced using the istanbul_animate.R script. In addition, the scraping script still works as of Feb 2022.
+This repo is not meant to be pedagogical (for now). The code is sloppy but the gif below can still be reproduced using the istanbul_animate.R script (and the data/shapefiles supplied herein). In addition, the scraping script still works as of Feb 2022.
 
 Steps:
  - Get the bus line codes from the IETT website
- - Get time and location data for the active bus lines
+ - Get the necessary time and location data for the active bus lines
  - Clean and reshape the data
  - Animate
  
